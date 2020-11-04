@@ -1,7 +1,7 @@
 # coursera
 <html>
   <head>
-    <title>Hello coursera!</title>
+    Hello coursera!
   </head>
 </html>
 
